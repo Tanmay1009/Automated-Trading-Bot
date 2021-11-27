@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 
-@author: Nishant
+@author: Tanmay
 """
 #import oandapyV20
 import oandapyV20.endpoints.instruments as instruments
